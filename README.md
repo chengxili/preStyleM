@@ -9,7 +9,7 @@ python prepro_ngrams_style_tokptb_wdivminuseach.py --rm_punc 0 --input_json  dat
 ```
 ## coco-captions/pycocoevalcap contains OnlyStyle and StyleCider
 
-# Consider to cite my paper if you feel it is useful
+## Consider to cite my paper if you feel it is useful
 ```
 @article{li2022stylem,
   title={StyleM: Stylized Metrics for Image Captioning Built with Contrastive N-grams},
