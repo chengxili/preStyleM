@@ -9,3 +9,13 @@ python prepro_ngrams_style_tokptb_wdivminuseach.py --rm_punc 0 --input_json  dat
 ```
 ## coco-captions/pycocoevalcap contains OnlyStyle and StyleCider
 
+#Consider to cite my paper
+```
+@article{li2022stylem,
+  title={StyleM: Stylized Metrics for Image Captioning Built with Contrastive N-grams},
+  author={Li, Chengxi and Harrison, Brent},
+  journal={arXiv preprint arXiv:2201.00975},
+  year={2022}
+}
+```
+
